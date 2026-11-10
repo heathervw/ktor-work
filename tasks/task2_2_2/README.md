@@ -1,4 +1,4 @@
-# Task 2.2.2
+ # Task 2.2.2
 
 1. Copy `document.html` from the `tasks/task1_2` directory of your repository
    to the `tasks/task2_2_2` directory. Change the title to "Task 2.2.2".

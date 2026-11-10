@@ -1,0 +1,20 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-size: 2.4em;
+    color: green;
+    font-weight: bold;
+
+}
+
+ul li { 
+    color:blue;
+    font-size: medium
+} 
+
+img ~ p  {
+  font-size: small;
+  font-weight: normal;
+  color: purple;
+}
